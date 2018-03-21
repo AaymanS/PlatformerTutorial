@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" tiledversion="1.1.3" orientation="orthogonal" renderorder="right-down" width="100" height="12" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#27b99a" nextobjectid="206">
- <tileset firstgid="1" name="objs" tilewidth="384" tileheight="332" tilecount="62" columns="0">
+ <tileset firstgid="1" name="objs" tilewidth="1000" tileheight="750" tilecount="94" columns="0">
+  <grid orientation="orthogonal" width="384" height="332"/>
   <tile id="0">
    <image width="160" height="192" source="../sprites/alter.png"/>
   </tile>
@@ -186,6 +187,102 @@
   </tile>
   <tile id="62">
    <image width="133" height="160" source="../sprites/skeleton.png"/>
+  </tile>
+  <tile id="63">
+   <image width="133" height="65" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Bush (1).png"/>
+  </tile>
+  <tile id="64">
+   <image width="133" height="65" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Bush (2).png"/>
+  </tile>
+  <tile id="65">
+   <image width="73" height="47" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Bush (3).png"/>
+  </tile>
+  <tile id="66">
+   <image width="73" height="46" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Bush (4).png"/>
+  </tile>
+  <tile id="67">
+   <image width="77" height="77" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Crate.png"/>
+  </tile>
+  <tile id="68">
+   <image width="49" height="41" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Mushroom_1.png"/>
+  </tile>
+  <tile id="69">
+   <image width="50" height="41" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Mushroom_2.png"/>
+  </tile>
+  <tile id="70">
+   <image width="63" height="65" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Sign_1.png"/>
+  </tile>
+  <tile id="71">
+   <image width="62" height="64" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Sign_2.png"/>
+  </tile>
+  <tile id="72">
+   <image width="90" height="54" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Stone.png"/>
+  </tile>
+  <tile id="73">
+   <image width="1000" height="750" source="../../../../Corona Projects/TiledTest/assets/map/tiles/SummerBackground.png"/>
+  </tile>
+  <tile id="74">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile1.png"/>
+  </tile>
+  <tile id="75">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile2.png"/>
+  </tile>
+  <tile id="76">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile3.png"/>
+  </tile>
+  <tile id="77">
+   <image width="129" height="129" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile4.png"/>
+  </tile>
+  <tile id="78">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile5.png"/>
+  </tile>
+  <tile id="79">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile6.png"/>
+  </tile>
+  <tile id="80">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile7.png"/>
+  </tile>
+  <tile id="81">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile8.png"/>
+  </tile>
+  <tile id="82">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile9.png"/>
+  </tile>
+  <tile id="83">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile10.png"/>
+  </tile>
+  <tile id="84">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile11.png"/>
+  </tile>
+  <tile id="85">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile12.png"/>
+  </tile>
+  <tile id="86">
+   <image width="128" height="93" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile13.png"/>
+  </tile>
+  <tile id="87">
+   <image width="128" height="93" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile14.png"/>
+  </tile>
+  <tile id="88">
+   <image width="128" height="93" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile15.png"/>
+  </tile>
+  <tile id="89">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile16.png"/>
+  </tile>
+  <tile id="90">
+   <image width="128" height="99" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile17.png"/>
+  </tile>
+  <tile id="91">
+   <image width="128" height="128" source="../../../../Corona Projects/TiledTest/assets/map/tiles/tile18.png"/>
+  </tile>
+  <tile id="92">
+   <image width="116" height="44" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Tree_1.png"/>
+  </tile>
+  <tile id="93">
+   <image width="282" height="301" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Tree_2.png"/>
+  </tile>
+  <tile id="94">
+   <image width="282" height="275" source="../../../../Corona Projects/TiledTest/assets/map/tiles/Tree_3.png"/>
   </tile>
  </tileset>
  <objectgroup name="parallax">
